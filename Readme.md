@@ -1,4 +1,5 @@
 **Running the project:**
+
 To compile the project, run the following command:
 
 gcc -o main -fopenmp main.c
@@ -25,6 +26,7 @@ n is the number of webpages included in the top scoring list attained after runn
 
 
 **Comments**
+
 There is definitely room for improvement here. Mainly I have not implemented any header files, which I know is unfortunate. I did not feel it was
 necessary here, but it should still have been included. I could also have made function files, which would have given the project better structure.
 The parallelisation did not have much effect here, but I can see how it is vital for real life web graphs with millions of nodes. I did also ignore
