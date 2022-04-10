@@ -11,9 +11,13 @@ After compilation, the program can be executed with user inputs:
 Where you need to implement the desired variables.
 
 Filename is the name of the web graph to be analysed. In this project, this is limited to one of the following:
+
 simple_webgraph.txt
+
 100nodes_graph.txt
+
 web-stanford.txt
+
 web-notredame.txt
 
 epsilon is the threshold value. This is usually vey small, for example 0.000001
